@@ -1,0 +1,2 @@
+# chat
+yumurta çıksın ortaya
