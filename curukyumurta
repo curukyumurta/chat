@@ -5,20 +5,20 @@
 	<meta name="description" content="yumurtacıksınortaya">
 	<style type="text/css">
 		body {
-			background-color: #000;
-			color: #fff;
+			background-color: #333333;
 			font-family: Arial, sans-serif;
+		}
+		h1 {
+			color: #ffffff;
+			text-align: center;
 		}
 		#chatroll {
 			width: 100%;
-			height: calc(100vh - 50px);
-			background-color: #000;
+			height: calc(100vh - 100px);
+			background-color: #444444;
 			margin: 0 auto;
 			padding: 0;
-			max-width: 700px;
-			max-height: 1000px;
-			box-sizing: border-box;
-			border: 5px solid #fff;
+			overflow: hidden;
 		}
 		iframe {
 			width: 100%;
@@ -30,7 +30,7 @@
 	</style>
 </head>
 <body>
-	<h1>Arsızda Yumurta</h1>
+	<h1>arsızdayumurta</h1>
 	<div id="chatroll">
 		<iframe src="https://chatroll.com/embed/chat/r-k-yumurta?id=HfXOFmeDRvi&platform=html" frameborder="0" scrolling="no"></iframe>
 	</div>
